@@ -1,31 +1,18 @@
-# LEE SEO HYUN (32233165) 🎨
-<p align="center">
-  <img src="./images/banner.png" alt="Lee Seo Hyun (32233165)" width="800"/>
-</p>
-
-## About me
-
-| 구분 | 내용 |
-| :--- | :--- |
-| NAME | 이서현 (Lee SeoHyun) |
-| STUDENT ID | 32233165  |
-| MAJOR | 단국대학교 소프트웨어학과 |
-| EMAIL | lseohyun24@dankook.ac.kr |
-| GitHub | https://github.com/32233165|
-
-### 자기소개
-저는 웹과 그래픽을 아무르며 시각적 결과물을 설계하는 디자이너 **이서현**입니다.
-
-**예술적인 관점**을 기반으로 정보를 시각적으로 설득력 있게 전달하는 역할을 수행하며,
-**Figma**를 활용한 웹/앱 디자인 뿐만 아니라 **Adobe Photoshop, Illustrator, Premiere Pro** 등 다양한 툴을 사용하여 넓은 범위의 미디어 콘텐츠 제작 경험을 쌓았습니다.
-
-현재는 **GTQ 자격증**을 취득하여 디자인 툴의 기본기를 공식적으로 입증하고,
-이를 발판 삼아 **인턴쉽 실무 경험**을 통해 현장 노하우를 빠르게 체득하는 것을 목표로 합니다.
-
-일상 속 모든 시각적 요소를 효과적으로 디자인하는 디자이너로 성장하겠습니다.
+# 이서현 (Lee Seo Hyun)
+**전공:** 단국대학교 소프트웨어학과
+**이메일(E-mail):** lseohyun24@dankook.ac.kr
+**GitHub:** https://github.com/32233165
 
 ---
-## Tech Stack (기술 스택)
+
+# 학력 사항
+| 학교명 | 전공 | 기간 |
+| :--- | :--- | :--- |
+| 단국대학교 | 소프트웨어학과 | 2023.03 ~ 2027.02 (졸업 예정) |
+
+---
+
+# 기술 역량
 
 <p align="center">
     <img src="https://img.shields.io/badge/UX/UI%20Design-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="UX/UI Design Badge">
@@ -34,38 +21,28 @@
     <img src="https://img.shields.io/badge/Web%20Accessibility-339999?style=flat-square&logoColor=white" alt="Web Accessibility Badge">
 </p>
 
-### 기술적 역량
-
-* **Visual & Conceptual Thinking (시각적/개념적 사고)**
-    * **예술적 관점**을 기반으로 디자인하며, 단순히 보기 좋은 것을 넘어 시각적 설득력과 몰입감을 부여하는 정보 전달에 특화.
-    * **Photoshop, Illustrator, Premiere Pro** 등 다양한 툴 활용 경험을 통해 넓은 범위의 미디어 콘텐츠에 대한 이해와 제작 능력 보유.
-* **UI/UX Foundation & Tool Proficiency (기반 및 툴 숙련도)**
-    * **Figma**를 활용한 웹/앱 디자인 경험을 통해, 재사용성 높은 컴포넌트 설계 및 디자인 시스템 구축의 기본 개념 이해.
-    * **GTQ 자격증 취득**을 목표로 디자인 툴의 기본기를 공식적으로 입증하고, 실무 워크플로우를 체득할 준비 완료.
-* **Data-Informed Approach (데이터 중심 접근)**
-    * **소프트웨어학과 배경**을 바탕으로 시스템/데이터 이해도가 높아, 디자인을 **정량적 지표(사용성, 개선율)**를 통해 검증하고 개선하려는 데이터 기반 의사결정 지향.
-    * **Learning Goals**에 명시된 사용자 리서치 및 웹 분석 데이터를 활용한 논리적 디자인 과정 구축 중.
-* **Professional Growth & Collaboration (성장 지향 및 협업 자세)**
-    * **인턴십 실무 경험**을 통해 현장의 디자인 프로세스와 협업 노하우를 빠르게 체득할 명확한 목표 설정.
-    * **GitHub 기반**으로 포트폴리오 및 학습 과정을 투명하게 기록하며, 피드백을 수용하고 지속적으로 발전하는 자세 확립.
-
-### 주요 디자인 도구
-
-| 구분 | 툴(TOOL) |
-| :--- | :--- |
-| **UI/UX** | Figma, Sketch, Adobe XD |
-| **GRAPHIC** | Adobe Photoshop, Illustrator |
-| **Prototyping** | Protopie, Marvel |
+* **UI/UX 디자인 환경:** Figma, Sketch, Adobe XD
+* **그래픽 제작 환경:** Adobe photoshop, Illustrator
+* **프로토타이핑 환경:** Protopie, Marvel
 
 ---
 
-## Project Experience & Activity Awards
+# 프로젝트 경험, 대외 활동 및 수상 경력
+
 현재는 GTQ 자격증 취득과 툴 숙련도 향상에 집중하고 있으며, 디자인 공모전 및 대외활동을 적극적으로 탐색 중입니다.
 목표에 따라 저의 성과로 채워질 공간입니다.
 
 ---
 
-## Learning Goals (학습 목표)
+# 자기소개 및 학습 목표
+
+저는 웹과 그래픽을 아우르며 **시각적 결과물**을 설계하는 디자이너 이서현입니다.
+**예술적인 관점**과 **소프트웨어학과 배경**을 융합하여 시각적 설득력과 디지털 논리를 갖춘 디자인을 지향합니다.
+
+**Figma**를 활용한 웹/앱 디자인 경험과 **Adobe Suite (Photoshop, Illustrator, Premiere Pro)** 를 다루는 폭넓은 미디어 제작 경험을 보유하고 있습니다. 현재 GTQ 자격증 취득과 인턴쉽 실무 경험을 통해 현장 노하우를 빠르게 체득하는 것을 목표로 합니다.
+
+일상 속 모든 시각적 요소를 효과적으로 디자인하는 **즉시 투입 가능한 전문가**로 성장하겠습니다.
+
 * **UI/UX 효율화:** Figma 디자인 시스템 숙지를 통해 디자인 반복 작업 시간을 최소 **50% 이상** 줄이기.
 * **사용자 데이터 기반 의사결정:** 사용자 리서치 및 웹 분석 데이터를 활용하여, **좋은 디자인**의 기준을 생각하기.
 * **전문성 확장:** GTQ와 실무 인턴쉽을 성공적으로 완수하여 디자이너로 성장.
