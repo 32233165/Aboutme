@@ -1,4 +1,4 @@
-# LEE SEO HYUN (32233165)
+# LEE SEO HYUN (32233165) 🎨
 ## Contact & Profile
 
 | 구분 | 내용 |
