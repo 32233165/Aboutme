@@ -14,6 +14,9 @@
 ---
 
 ## Design Tools (주요 디자인 도구)
+
+| 구분 | 툴(TOOL) | 학습 숙련도 |
+| :--- | :--- | :--- |
 | **UI/UX** | Figma, Sketch, Adobe XD | [중] |
 | **GRAPHIC** | Adobe Photoshop, Illustrator | [중], [하] |
 | **Prototyping** | Protopie, Marvel | [하] |
