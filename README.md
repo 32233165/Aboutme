@@ -7,7 +7,7 @@
 | STUDENT ID | 32233165  |
 | MAJOR | 단국대학교 소프트웨어학과 |
 | EMAIL | lseohyun24@dankook.ac.kr |
-| GitHub | github.com/32233165 |
+| GitHub | https://github.com/32233165|
 
 ## Aboutme
 저는 웹과 그래픽을 아무르며 시각적 결과물을 설계하는 디자이너 **이서현**입니다.
