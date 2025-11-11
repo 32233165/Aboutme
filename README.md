@@ -1,4 +1,7 @@
 # LEE SEO HYUN (32233165) 🎨
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&height=50&lines=Welcome+to+Seohyun's+Portfolio!;UI/UX+Designer;Visual+Storyteller;Let's+Connect!" alt="Typing SVG"/>
+</p>
 ## About me
 
 | 구분 | 내용 |
