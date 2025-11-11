@@ -21,17 +21,14 @@
 일상 속 모든 시각적 요소를 효과적으로 디자인하는 디자이너로 성장하겠습니다.
 
 ---
-
-## Design Expertise (핵심 디자인 역량)
-
-### 관심 분야 키워드
-
 <p align="center">
     <img src="https://img.shields.io/badge/UX/UI%20Design-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="UX/UI Design Badge">
     <img src="https://img.shields.io/badge/Visual%20Branding-4DA6FF?style=flat-square&logo=adobe&logoColor=white" alt="Visual Branding Badge">
     <img src="https://img.shields.io/badge/Media%20Content-B389D3?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white" alt="Media Content Badge">
     <img src="https://img.shields.io/badge/Web%20Accessibility-339999?style=flat-square&logoColor=white" alt="Web Accessibility Badge">
 </p>
+
+## Design Expertise (핵심 디자인 역량)
 
 * **Visual & Conceptual Thinking (시각적/개념적 사고)**
     * **예술적 관점**을 기반으로 디자인하며, 단순히 보기 좋은 것을 넘어 시각적 설득력과 몰입감을 부여하는 정보 전달에 특화.
