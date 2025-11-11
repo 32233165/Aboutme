@@ -3,6 +3,7 @@
 
 ## Contact & Profile
 
+| 구분 | 내용 |
 | :--- | :--- |
 | NAME | 이서현 (Lee SeoHyun) |
 | STUDENT ID | 32233165  |
