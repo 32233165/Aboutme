@@ -3,6 +3,7 @@
 
 ## Contact & Profile
 
+| :--- | :--- |
 | NAME | 이서현 (Lee SeoHyun) |
 | STUDENT ID | 32233165  |
 | MAJOR | 단국대학교 소프트웨어학과 |
