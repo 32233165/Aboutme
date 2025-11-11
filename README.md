@@ -21,6 +21,8 @@
 일상 속 모든 시각적 요소를 효과적으로 디자인하는 디자이너로 성장하겠습니다.
 
 ---
+## Tech Stack (기술 스택)
+
 <p align="center">
     <img src="https://img.shields.io/badge/UX/UI%20Design-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="UX/UI Design Badge">
     <img src="https://img.shields.io/badge/Visual%20Branding-4DA6FF?style=flat-square&logo=adobe&logoColor=white" alt="Visual Branding Badge">
@@ -28,7 +30,7 @@
     <img src="https://img.shields.io/badge/Web%20Accessibility-339999?style=flat-square&logoColor=white" alt="Web Accessibility Badge">
 </p>
 
-## Design Expertise (핵심 디자인 역량)
+### 기술적 역량
 
 * **Visual & Conceptual Thinking (시각적/개념적 사고)**
     * **예술적 관점**을 기반으로 디자인하며, 단순히 보기 좋은 것을 넘어 시각적 설득력과 몰입감을 부여하는 정보 전달에 특화.
@@ -43,7 +45,7 @@
     * **인턴십 실무 경험**을 통해 현장의 디자인 프로세스와 협업 노하우를 빠르게 체득할 명확한 목표 설정.
     * **GitHub 기반**으로 포트폴리오 및 학습 과정을 투명하게 기록하며, 피드백을 수용하고 지속적으로 발전하는 자세 확립.
 
-## Design Tools (주요 디자인 도구)
+### 주요 디자인 도구
 
 | 구분 | 툴(TOOL) |
 | :--- | :--- |
