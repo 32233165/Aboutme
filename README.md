@@ -1,6 +1,6 @@
 # 이서현 (Lee Seo Hyun)
-**전공:** 단국대학교 소프트웨어학과
-**이메일(E-mail):** lseohyun24@dankook.ac.kr
+**전공:** 단국대학교 소프트웨어학과 <br>
+**이메일(E-mail):** lseohyun24@dankook.ac.kr <br>
 **GitHub:** https://github.com/32233165
 
 ---
