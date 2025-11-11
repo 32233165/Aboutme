@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./images/banner.png" alt="Lee Seo Hyun (32233165)" width="800"/>
 </p>
+
 ## About me
 
 | 구분 | 내용 |
