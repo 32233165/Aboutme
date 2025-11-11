@@ -24,7 +24,7 @@
 
 ## Design Expertise (핵심 디자인 역량)
 
-## ✨ Key Interests
+### 관심 분야 키워드
 
 <p align="center">
     <img src="https://img.shields.io/badge/UX/UI%20Design-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="UX/UI Design Badge">
