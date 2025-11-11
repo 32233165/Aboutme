@@ -24,6 +24,15 @@
 
 ## Design Expertise (핵심 디자인 역량)
 
+## ✨ Key Interests
+
+<p align="center">
+    <img src="https://img.shields.io/badge/UX/UI%20Design-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="UX/UI Design Badge">
+    <img src="https://img.shields.io/badge/Visual%20Branding-4DA6FF?style=flat-square&logo=adobe&logoColor=white" alt="Visual Branding Badge">
+    <img src="https://img.shields.io/badge/Media%20Content-B389D3?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white" alt="Media Content Badge">
+    <img src="https://img.shields.io/badge/Web%20Accessibility-339999?style=flat-square&logoColor=white" alt="Web Accessibility Badge">
+</p>
+
 * **Visual & Conceptual Thinking (시각적/개념적 사고)**
     * **예술적 관점**을 기반으로 디자인하며, 단순히 보기 좋은 것을 넘어 시각적 설득력과 몰입감을 부여하는 정보 전달에 특화.
     * **Photoshop, Illustrator, Premiere Pro** 등 다양한 툴 활용 경험을 통해 넓은 범위의 미디어 콘텐츠에 대한 이해와 제작 능력 보유.
@@ -52,6 +61,6 @@
 목표에 따라 저의 성과로 채워질 공간입니다.
 
 ## Learning Goals (학습 목표)
-* **UI/UX 효율화:** Figma 디자인 시스템 숙지를 통해 디자인 반복 작업 시간을 최소 **50% 이상** 줄이기
-* **사용자 데이터 기반 의사결정:** 사용자 리서치 및 웹 분석 데이터를 활용하여, **좋은 디자인**의 기준을 생각하기
-* **전문성 확장:** GTQ와 실무 인턴쉽을 성공적으로 완수하여 디자이너로 성장
+* **UI/UX 효율화:** Figma 디자인 시스템 숙지를 통해 디자인 반복 작업 시간을 최소 **50% 이상** 줄이기.
+* **사용자 데이터 기반 의사결정:** 사용자 리서치 및 웹 분석 데이터를 활용하여, **좋은 디자인**의 기준을 생각하기.
+* **전문성 확장:** GTQ와 실무 인턴쉽을 성공적으로 완수하여 디자이너로 성장.
