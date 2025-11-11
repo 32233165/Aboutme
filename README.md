@@ -20,15 +20,19 @@
 
 일상 속 모든 시각적 요소를 효과적으로 디자인하는 디자이너로 성장하겠습니다.
 
----
-
 ## Design Tools (주요 디자인 도구)
 
-| 구분 | 툴(TOOL) | 학습 숙련도 |
-| :--- | :--- | :--- |
-| **UI/UX** | Figma, Sketch, Adobe XD | [중] |
-| **GRAPHIC** | Adobe Photoshop, Illustrator | [중], [하] |
-| **Prototyping** | Protopie, Marvel | [하] |
+| 구분 | 툴(TOOL) |
+| :--- | :--- |
+| **UI/UX** | Figma, Sketch, Adobe XD |
+| **GRAPHIC** | Adobe Photoshop, Illustrator |
+| **Prototyping** | Protopie, Marvel |
+
+---
+
+## Project Experience & Activity Awards
+현재는 GTQ 자격증 취득과 툴 숙련도 향상에 집중하고 있으며, 디자인 공모전 및 대외활동을 적극적으로 탐색 중입니다. <br>
+목표에 따라 저의 성과로 채워질 공간입니다.
 
 ## Learning Goals (학습 목표)
 * **UI/UX 효율화:** Figma 디자인 시스템 숙지를 통해 디자인 반복 작업 시간을 최소 **50%** 이상 줄이기
