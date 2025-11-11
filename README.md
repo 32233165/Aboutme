@@ -1,5 +1,5 @@
 # LEE SEO HYUN (32233165) 🎨
-## Contact & Profile
+## About me
 
 | 구분 | 내용 |
 | :--- | :--- |
@@ -9,7 +9,7 @@
 | EMAIL | lseohyun24@dankook.ac.kr |
 | GitHub | https://github.com/32233165|
 
-## Aboutme
+### 자기소개
 저는 웹과 그래픽을 아무르며 시각적 결과물을 설계하는 디자이너 **이서현**입니다.
 
 **예술적인 관점**을 기반으로 정보를 시각적으로 설득력 있게 전달하는 역할을 수행하며,
@@ -58,6 +58,8 @@
 ## Project Experience & Activity Awards
 현재는 GTQ 자격증 취득과 툴 숙련도 향상에 집중하고 있으며, 디자인 공모전 및 대외활동을 적극적으로 탐색 중입니다.
 목표에 따라 저의 성과로 채워질 공간입니다.
+
+---
 
 ## Learning Goals (학습 목표)
 * **UI/UX 효율화:** Figma 디자인 시스템 숙지를 통해 디자인 반복 작업 시간을 최소 **50% 이상** 줄이기.
